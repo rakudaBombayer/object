@@ -1,3 +1,5 @@
 # object
 
-sensouを実行してください。
+sensou.phpを実行してください。
+
+aa
