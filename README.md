@@ -1,5 +1,5 @@
 # object
 
-sensou.phpを実行してください。
+Game.phpを実行してください。
 
 
